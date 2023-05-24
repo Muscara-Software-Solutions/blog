@@ -14,5 +14,5 @@ blog({
     { title: "Twitter", url: "https://twitter.com" },
     { title: "LinkedIn", url: "https://linkedin.com" },
   ],
-  description: "Welcome to the teacher's lounge, stay up to date with the latest stories, updates, tips & tracks, and so much more.",
+  description: "Welcome to the teacher's lounge, stay up to date with the latest stories, updates, tips & tricks, and so much more.",
 });
