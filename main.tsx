@@ -3,16 +3,15 @@
 import blog, { ga, redirects, h } from "blog";
 
 blog({
-  title: "Hallpass Blog",
+  title: "Hallpass",
   author: "Hallpass",
   avatar: "https://deno-avatar.deno.dev/avatar/blog.svg",
   avatarClass: "rounded-full",
   links: [
     { title: "Email", url: "mailto:muscarasoftware@gmail.com" },
     { title: "Home", url: "https://hallpass.gg" },
-    { title: "Instagram", url: "https://instagram.com" },
-    { title: "Twitter", url: "https://twitter.com" },
-    { title: "LinkedIn", url: "https://linkedin.com" },
+    { title: "Twitter", url: "https://twitter.com/muscarasoftware" },
+    { title: "LinkedIn", url: "https://www.linkedin.com/company/muscara-software-solutions/?viewAsMember=true" },
   ],
-  description: "Welcome to the teacher's lounge, stay up to date with the latest stories, updates, tips & tricks, and so much more.",
+  description: "Stay up to date with the latest announcements, updates, tips, and more.",
 });
