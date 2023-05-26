@@ -7,6 +7,8 @@ blog({
   author: "Hallpass",
   avatar: "https://deno-avatar.deno.dev/avatar/blog.svg",
   avatarClass: "rounded-full",
+  header: <script async src="https://analytics.muscarasoftware.com/script.js" data-website-id="fbef8858-2a41-4bb6-8657-80d00dcd4ea0"></script>,
+  showHeaderOnPostPage: true,
   links: [
     { title: "Email", url: "mailto:muscarasoftware@gmail.com" },
     { title: "Home", url: "https://hallpass.gg" },
