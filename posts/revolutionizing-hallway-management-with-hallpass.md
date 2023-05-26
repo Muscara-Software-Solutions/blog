@@ -32,3 +32,5 @@ Hallpass is a comprehensive hallway management software designed to address thes
 # Conclusion
 
 Hallpass is the future of hallway management. By leveraging its advanced features, institutions and organizations can bid farewell to the challenges posed by congested corridors and embrace a streamlined, efficient, and safe environment. We're excited about the possibilities that Hallpass brings, and we invite you to stay tuned for future blog posts where we'll dive deeper into its functionalities and explore real-life success stories.
+
+<script async src="https://analytics.muscarasoftware.com/script.js" data-website-id="fbef8858-2a41-4bb6-8657-80d00dcd4ea0"></script>
